@@ -1,7 +1,7 @@
 # Snake32
 a simple snake game that deletes system32 if u die
 
-# if you want to play normally then go to [this line and change enabled to False](https://github.com/QwertyL0L/Snake32/blob/main/main.py#L92)
+# if you want to play normally then go to [this line](https://github.com/QwertyL0L/Snake32/blob/main/main.py#L92) and change enabled to False
 
 # MAKE SURE TO USE A VIRTUAL MACHINE
 
